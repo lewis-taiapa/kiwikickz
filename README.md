@@ -2,7 +2,9 @@
 
 ## Deployed At
 
-https://kiwikickz.herokuapp.com/
+// https://kiwikickz.herokuapp.com/
+
+Current deployment to Heroku is closed as Heroku is not a free webhost. The purpose of this repo is to upload the web project to a new host, and add and modify changes to the project.
 
 ## Final Group Project
 
